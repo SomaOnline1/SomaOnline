@@ -1,5 +1,24 @@
 # test3
-<div id="disqus_thread"></div>
+
+<!doctype html>
+<html>
+
+<head>
+	<title>
+		SoMaOnline에 오신것을 환영합니다!
+	</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	
+	<h1>안녕하세요? 지금은 준비중입니다</h1>
+	<p>
+		TestPage
+	</p>
+  
+  <p>
+  
+  <div id="disqus_thread"></div>
 <script>
 
 /**
@@ -19,3 +38,9 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  
+  </p>
+  
+
+</body>
+</html>
