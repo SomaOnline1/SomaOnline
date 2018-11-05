@@ -18,7 +18,7 @@
   
   <p>
   
-  <div id="disqus_thread"></div>
+ <div id="disqus_thread"></div>
 <script>
 
 /**
@@ -32,12 +32,14 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 */
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://somaonline1.disqus.com/embed.js';
+s.src = 'https://somaonline.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+ 
+ 
   
   </p>
   
