@@ -42,7 +42,7 @@ s.setAttribute('data-timestamp', +new Date());
  
   
   </p>
-  
+   
 
 </body>
 </html>
